@@ -57,7 +57,7 @@ This work is maintained by the following researchers:
 - Uriel Martinez-Hernandez
 - Abbas A. Dehghani-Sanij
 
-### Version
+## Version
 SiSt_recogniser v1.0
 
 This repository was updated the 19/02/2018
