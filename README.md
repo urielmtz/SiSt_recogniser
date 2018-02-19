@@ -20,6 +20,24 @@ The data used in this repository was collected from a wearable sensor (IMU Shimm
 
 
 ## Running the scripts for recognition of SiSt activity and transition phases
+The first step is to generate the recognition results for SiSt activity. For this process, you need to run the script 'test_program.m', which internally calls the rest of script located in Bayesian_classifier folder. Before running the test script, you need to specified the path to read the data collected from the wearable sensor. This details can be set in lines 30 and 31 in 'test_program.m' file as follows:
+
+**_path = '..\sample_data';_**
+
+**_folder_name = '3state2transitionPhases';_**
+
+
+This example shows that the data in 'sample_data' folder will be used, which is prepared with 3 states (sit, stand and transition) and 2 transition phases. Once this information is defined in the MATLAB script, then you can run the test script in the console as follows:
+
+**In MATLAB console**
+
+**_test_program_**
+
+This program will generate multiple output files containing the recognition results. The script generates 6 output files, however, the number of files can be configured using the variables _minHistBin_, _maxHistBin_ and _stepHistAnalysis_. By default, this variables are set as follows: _minHistBin = 50_, _maxHistBin = 100_ and _stepHistAnalysis = 10_ which generated 6 output files ([50:10:100] -> 6 file).
+
+The output files can be used to analyse the accuracy of the recognition results and generate confusion matrices. These processes are shown in the following section.
+
+
 
 ## Visualisation of results with confusion matrices
 
