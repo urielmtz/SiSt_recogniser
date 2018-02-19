@@ -3,6 +3,8 @@ Probabilistic framework for recognition of sit-to-stand activities and transitio
 
 This work is part of the project 'Wearable soft robotics for independent living' funded by EPSRC and maintained by the School of Mechanical Engineering, the University of Leeds, UK.
 
+The data used in this repository was collected from a wearable sensor (IMU Shimmer Inc.) attached to the thigh of multiple participants. The data collected are composed of acceleration measurements while sitting, standing and transitioning from sit to stand. Testing and training datasets were prepared for validation of the SiSt_recogniser. 
+
 
 ## File structure
 - Bayesian_classifier\\
