@@ -19,6 +19,10 @@ The data used in this repository was collected from a wearable sensor (IMU Shimm
   - 3state3transitionPhases\
 
 
+## Running the scripts for recognition of SiSt activity and transition phases
+
+## Visualisation of results with confusion matrices
+
 ## Contributors
 This work is maintain by the following researchers:
 
