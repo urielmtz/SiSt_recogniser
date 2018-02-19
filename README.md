@@ -2,7 +2,9 @@
 Probabilistic framework for recognition of sit-to-stand activities and transition phases.
 
 
-## classifier\
+## File tree
+
+classifier\
 |
  ------ Bayesian_classifier.m
  ------ controller.m
