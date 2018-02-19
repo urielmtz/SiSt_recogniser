@@ -8,7 +8,6 @@ classifier\
 |
 
  ------ Bayesian_classifier.m
-
  ------ controller.m
 
  ------ run_classifier.m
