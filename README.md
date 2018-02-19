@@ -13,34 +13,8 @@ This work is part of the project 'Wearable soft robotics for independent living'
 
 - sample_data\\
   - 3state1transitionPhases\\
-    - multiple_data_sitdown_test_store.mat
-	- multiple_data_sitdown_train_store.mat
-	- multiple_data_standup_test_store.mat
-	- multiple_data_standup_train_store.mat
-	- multiple_data_transit_test_store.mat
-	- multiple_data_transit_train_store.mat
-	- multiple_expt.mat
-	- output_histBin_50_testing.mat
-	- plot_confusion_matrices.m
   - 3state2transitionPhases\\
-    - multiple_data_sitdown_test_store.mat
-	- multiple_data_sitdown_train_store.mat
-	- multiple_data_standup_test_store.mat
-	- multiple_data_standup_train_store.mat
-	- multiple_data_transit_test_store.mat
-	- multiple_data_transit_train_store.mat
-	- multiple_expt.mat
-	- output_histBin_50_testing.mat
-	- plot_confusion_matrices.m
   - 3state3transitionPhases\
-	- multiple_data_sitdown_test_store.mat
-	- multiple_data_sitdown_train_store.mat
-	- multiple_data_standup_test_store.mat
-	- multiple_data_standup_train_store.mat
-	- multiple_data_transit_test_store.mat
-	- multiple_data_transit_train_store.mat
-	- multiple_expt.mat
-	- plot_confusion_matrices.m
 
 
 ## Contributors
