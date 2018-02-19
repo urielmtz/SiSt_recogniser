@@ -52,7 +52,7 @@ In order to successfully run the plot script, you need to move in to the folder 
 
 
 ## Contributors
-This work is maintain by the following researchers:
+This work is maintained by the following researchers:
 
 - Uriel Martinez-Hernandez
 - Abbas A. Dehghani-Sanij
