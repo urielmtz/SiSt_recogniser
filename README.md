@@ -5,14 +5,10 @@ Probabilistic framework for recognition of sit-to-stand activities and transitio
 ## File tree
 
 classifier\
-|
-
- ------ Bayesian_classifier.m
- ------ controller.m
-
- ------ run_classifier.m
-
- ------ test_program.m
+-Bayesian_classifier.m
+-controller.m
+-run_classifier.m
+-test_program.m
 
 |
 
