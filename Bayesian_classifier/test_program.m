@@ -28,7 +28,7 @@ stepHistAnalysis = 10;
 histogram_value = [minHistBin:stepHistAnalysis:maxHistBin];
 actions_list = {'standup','sitdown','transit'};
 path = '..\sample_data';
-folder_name = '3state5transitionPhases';
+folder_name = '3state2transitionPhases';
 
 path = [path filesep folder_name];
 
