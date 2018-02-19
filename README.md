@@ -6,11 +6,17 @@ Probabilistic framework for recognition of sit-to-stand activities and transitio
 
 classifier\
 |
+
  ------ Bayesian_classifier.m
+
  ------ controller.m
+
  ------ run_classifier.m
+
  ------ test_program.m
+
 |
+
 sample_data\
 |
  ------ 3state1transitionPhases\
