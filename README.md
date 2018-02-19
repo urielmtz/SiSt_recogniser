@@ -1,6 +1,8 @@
 # SiSt_recogniser
 Probabilistic framework for recognition of sit-to-stand activities and transition phases.
 
+This work is part of the project 'Wearable soft robotics for independent living' funded by EPSRC and maintained by the School of Mechanical Engineering, the University of Leeds, UK.
+
 
 ## File structure
 - Bayesian_classifier\\
@@ -39,3 +41,10 @@ Probabilistic framework for recognition of sit-to-stand activities and transitio
 	- multiple_data_transit_train_store.mat
 	- multiple_expt.mat
 	- plot_confusion_matrices.m
+
+
+## Contributors
+This work is maintain by the following researchers:
+
+- Uriel Martinez-Hernandez
+- Abbas A. Dehghani-Sanij
